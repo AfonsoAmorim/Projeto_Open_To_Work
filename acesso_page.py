@@ -1,5 +1,5 @@
 import pyautogui as fc
-import os 
+
 
 #excluir fonte de dados antiga
 
@@ -46,7 +46,7 @@ fc.click(button='left')
 fc.sleep(10)
 fc.moveTo(x=118,y=450)
 fc.sleep(10)
-fc.moveTo(x=541,y=456)
+fc.moveTo(x=602,y=620)
 fc.click(button='left')
 fc.sleep(3)
 
